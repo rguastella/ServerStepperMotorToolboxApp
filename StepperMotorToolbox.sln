@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepperMotorToolbox", "StepperMotorToolbox\StepperMotorToolbox.csproj", "{8B991B4A-B1E0-4151-8C66-91CB113BCE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B991B4A-B1E0-4151-8C66-91CB113BCE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B991B4A-B1E0-4151-8C66-91CB113BCE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B991B4A-B1E0-4151-8C66-91CB113BCE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B991B4A-B1E0-4151-8C66-91CB113BCE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12B0489-99BB-430E-8681-C0A41ECDB619}
+	EndGlobalSection
+EndGlobal
